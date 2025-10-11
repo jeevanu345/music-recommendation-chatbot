@@ -11,5 +11,6 @@ This is the frontend for the Music Recommendation Chatbot.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jeevanu345/Music--Recommendation-using-chatbot.git
    cd frontend
+
