@@ -290,9 +290,6 @@ Contributions are welcome. To contribute:
 - Feedback validation is basic; consider implementing more robust validation
 - No user authentication currently implemented
 
-## License
-
-This project is open source and available under the MIT License.
 
 ## Contact
 
@@ -307,3 +304,4 @@ For questions or suggestions, please open an issue on the GitHub repository.
 ---
 
 **Note**: This application is designed for educational and demonstration purposes. For production use, implement proper security measures including authentication, input validation, and error handling.
+
